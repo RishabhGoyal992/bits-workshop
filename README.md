@@ -1,2 +1,2 @@
 # bits-workshop
-Bits Workshp Website
+Bits Workshop Website
