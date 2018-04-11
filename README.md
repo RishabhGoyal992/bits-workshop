@@ -1,2 +1,2 @@
 # bits-workshop
-Coding Blocks Workshop
+Bits Workshp Website
